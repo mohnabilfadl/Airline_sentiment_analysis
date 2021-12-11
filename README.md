@@ -17,7 +17,7 @@ Implementing sentiment analysis using different models from A to Z Using NLP tec
 6. Split the data into train, validaton and test set
 7. Creating 3 models [Logistic regression, Naive bayes and LSTM neural network]
 8. Doing validation techniques
-9. find the best model for this data
+9. Find the best model for this data
 10. Use the best model to test the data
 
 
