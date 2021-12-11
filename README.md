@@ -1,6 +1,12 @@
 # Airline_sentiment_analysis
 Implementing sentiment analysis using different models from A to Z Using NLP techniques
 
+![Image](img/1.png)
+
+![Image](img/3.png)
+
+![Image](img/2.png)
+
 ## Implemntation steps:
 
 1. Get dataset from [Kaggle](https://www.kaggle.com/crowdflower/twitter-airline-sentiment)
